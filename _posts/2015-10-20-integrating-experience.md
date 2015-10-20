@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'http://cognitiveintegration.com'
   name: Cognitiveintegration
-  favicon: null
   domain: cognitiveintegration.com
+  url: 'http://cognitiveintegration.com'
+  favicon: null
 keywords:
   - implicit
   - manipulate
@@ -25,13 +25,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://cognitiveintegration.com/?p=29'
 title: Integrating Experience
-datePublished: '2015-10-20T19:17:58.194Z'
-dateModified: '2015-10-20T19:16:52.782Z'
+datePublished: '2015-10-20T19:21:02.622Z'
+dateModified: '2015-10-20T19:20:55.714Z'
 sourcePath: _posts/2015-10-20-integrating-experience.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
