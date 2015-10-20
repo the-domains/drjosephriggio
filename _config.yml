@@ -1,4 +1,4 @@
-name: null
+name: DrJosephRiggio
 favicon: null
 layout_spectrum: 0.5589439226314425
 typography_spectrum: 0.6942754026968032
@@ -15,8 +15,13 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.0017243775073438883
+  brandColors:
+    - '#40210d'
+    - '#f69232'
+    - '#c07126'
+    - '#874d1b'
+    - '#623613'
+  brandStrength: 1
   lightness: 0.42188271251507103
   saturation: 0.25414156331680715
   rhythmicContrast: 0.26065746136009693
