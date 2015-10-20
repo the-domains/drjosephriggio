@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[DrJosephRiggio]]></title>
+        <description><![CDATA[DrJosephRiggio]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 20 Oct 2015 19:13:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Black Ops Mind Control 101 | Cognitive Integration]]></title>
+            <description><![CDATA[<article><h1>Black Ops Mind Control 101 | Cognitive Integration</h1><p>WARNING: While I believe that the performance benefits that will accrue from reading this post fully far outweigh the time you will put into getting them, it may require more than a single reading to fully grasp the complete discussion I'm presenting below.</p><img src="http://cognitiveintegration.com/wp-content/uploads/2012/02/2uke-300x271.jpg"></article>]]></description>
+            <link>http://cognitiveintegration.com/?p=67</link>
+            <guid isPermaLink="false">a3f76a40-4a22-4740-98fa-fb3b7ec2b20f</guid>
+            <pubDate>Tue, 20 Oct 2015 19:12:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
